@@ -1,1 +1,426 @@
-<mxfile host="www.draw.io" modified="2019-12-22T06:05:56.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="klQLJINmaT5bwzbsbv1W" version="12.4.3" type="github" pages="1"><diagram id="E05luGIgBVNeL6oh5AB8" name="Page-1">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</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-22T13:11:31.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="MbkaYy3nen5Kvf6Xko29" version="12.4.3" type="github" pages="1">
+  <diagram id="E05luGIgBVNeL6oh5AB8" name="Page-1">
+    <mxGraphModel dx="2500" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PJJnslw4Wn_ZsGAr-Ul9-1" target="te4BPd4gL-SLr1GhwpY1-1" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJJnslw4Wn_ZsGAr-Ul9-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Tinkers&lt;/font&gt;&lt;/div&gt;Basic Tools" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="20" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJJnslw4Wn_ZsGAr-Ul9-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Forestry&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="150" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-1" target="CSdkW1yLN_EMIZcc1iPK-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="165"/>
+              <mxPoint x="490" y="210"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-1" value="&lt;div&gt;Greg Tech &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Steam Era)&lt;/div&gt;Nether Access" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-9" value="&lt;div&gt;Greg Tech&lt;/div&gt;&lt;div&gt;(LV Era/ Steel production)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-1" target="te4BPd4gL-SLr1GhwpY1-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint"/>
+            <mxPoint x="440" y="200" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-13" value="&lt;div&gt;RailCraft &amp;amp; Immersive Enginnering&lt;/div&gt;&lt;div&gt;Blast &lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;background-position: 0% 0% ; background-repeat: repeat ; background-attachment: scroll ; background-image: none ; background-size: auto&quot;&gt;furnaces unlocked&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="40" width="200" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-14" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-1" target="te4BPd4gL-SLr1GhwpY1-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="200" as="sourcePoint"/>
+            <mxPoint x="510" y="150" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-15" value="&lt;div&gt;RailCraft &amp;amp; Immersive Enginnering&lt;/div&gt;&lt;div&gt;RF machines unlocked&lt;/div&gt;&lt;div&gt;Immersive Tech is unlocked&lt;br&gt;&lt;/div&gt;&lt;div&gt;Arc Furnace is still locked &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="360" width="200" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-16" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-9" target="te4BPd4gL-SLr1GhwpY1-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="320" as="sourcePoint"/>
+            <mxPoint x="520" y="270" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-17" value="&lt;div&gt;Greg Tech&lt;/div&gt;&lt;div&gt;(MV Era/Aluminum production)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="440" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-18" value="&lt;div&gt;Immersive Engineering&lt;/div&gt;&lt;div&gt;Arc Furnace Unlocked&lt;/div&gt;&lt;div&gt;Immersive Petroleum unlocked&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="460" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-9" target="te4BPd4gL-SLr1GhwpY1-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="279.28932188134524" as="sourcePoint"/>
+            <mxPoint x="470" y="280" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-20" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-17" target="te4BPd4gL-SLr1GhwpY1-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="450" as="sourcePoint"/>
+            <mxPoint x="510" y="400" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-21" target="te4BPd4gL-SLr1GhwpY1-38" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-21" value="&lt;div&gt;Greg Tech&lt;/div&gt;&lt;div&gt;(HV Era/Stainless Steel Production)&lt;br&gt;&lt;/div&gt;&lt;div&gt;End Access&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="710" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-22" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-17" target="te4BPd4gL-SLr1GhwpY1-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint"/>
+            <mxPoint x="450" y="360" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-23" value="&lt;div&gt;Advanced Rocketry&lt;/div&gt;&lt;div&gt;Fully unlocked&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="770" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-24" value="&lt;div&gt;Advanced Rocketry&lt;/div&gt;&lt;div&gt;Metal Shaping&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="220" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-25" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-9" target="te4BPd4gL-SLr1GhwpY1-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="320" as="sourcePoint"/>
+            <mxPoint x="220" y="270" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-26" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-21" target="te4BPd4gL-SLr1GhwpY1-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="790" as="sourcePoint"/>
+            <mxPoint x="520" y="740" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-27" value="&lt;div&gt;Thermal Expansion&lt;/div&gt;&lt;div&gt;up to Reinforced level machinery only&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="290" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-28" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-9" target="te4BPd4gL-SLr1GhwpY1-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="290" as="sourcePoint"/>
+            <mxPoint x="390" y="240" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-29" value="&lt;div&gt;Thermal Expansion&lt;/div&gt;&lt;div&gt;up to Signalum level machinery only&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="460" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-30" value="&lt;div&gt;Thermal Expansion&lt;/div&gt;&lt;div&gt;&amp;nbsp;all Machines levels unlocked&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="750" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-35" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-9" target="PJJnslw4Wn_ZsGAr-Ul9-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="170" as="sourcePoint"/>
+            <mxPoint x="330" y="120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-37" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-17" target="te4BPd4gL-SLr1GhwpY1-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="338" y="385" as="sourcePoint"/>
+            <mxPoint x="390" y="390" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-38" value="&lt;div&gt;Greg Tech&lt;/div&gt;&lt;div&gt;(EV Era/Tungsten Steel Production)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="890" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-42" value="RF Tools Diamensions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="890" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-43" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-38" target="te4BPd4gL-SLr1GhwpY1-42" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="960" as="sourcePoint"/>
+            <mxPoint x="330" y="910" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-44" value="&lt;div&gt;Ender I/O&lt;/div&gt;Mob Spawning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="920" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-45" value="" style="endArrow=classic;html=1;exitX=0.9;exitY=1.017;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-21" target="te4BPd4gL-SLr1GhwpY1-44" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="950" as="sourcePoint"/>
+            <mxPoint x="517" y="903" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-46" value="&lt;div&gt;Mekanism&lt;/div&gt;&lt;div&gt;all but Fusion Reactor&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="530" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-48" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-17" target="te4BPd4gL-SLr1GhwpY1-46" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="500" as="sourcePoint"/>
+            <mxPoint x="490" y="450" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-49" value="&lt;div&gt;NuclearCraft&lt;/div&gt;&lt;div&gt;all but Fusion Reactors&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="850" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-50" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-21" target="te4BPd4gL-SLr1GhwpY1-49" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="850" as="sourcePoint"/>
+            <mxPoint x="510" y="800" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-51" value="Applied Energistics" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="530" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-52" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-21" target="te4BPd4gL-SLr1GhwpY1-30" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="810" as="sourcePoint"/>
+            <mxPoint x="340" y="760" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-53" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-17" target="te4BPd4gL-SLr1GhwpY1-51" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="490" as="sourcePoint"/>
+            <mxPoint x="330" y="440" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-54" value="Genedustry" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="610" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-55" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-17" target="te4BPd4gL-SLr1GhwpY1-54" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="530" as="sourcePoint"/>
+            <mxPoint x="480" y="480" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-56" value="&lt;div&gt;Fusion Tech&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="1010" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-57" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-38" target="te4BPd4gL-SLr1GhwpY1-56" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1030" as="sourcePoint"/>
+            <mxPoint x="470" y="980" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-59" value="&lt;div&gt;RF Tool&lt;/div&gt;&lt;div&gt;All but Diamensions&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="600" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-60" value="" style="endArrow=classic;html=1;entryX=1.033;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-17" target="te4BPd4gL-SLr1GhwpY1-59" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="550" as="sourcePoint"/>
+            <mxPoint x="350" y="500" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-61" value="&lt;div&gt;Ender I/O&lt;/div&gt;All but Mob Spawning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="680" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="te4BPd4gL-SLr1GhwpY1-62" value="" style="endArrow=classic;html=1;entryX=-0.033;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-17" target="te4BPd4gL-SLr1GhwpY1-61" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="610" as="sourcePoint"/>
+            <mxPoint x="480" y="560" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-1" value="&lt;div&gt;Thaumcraft&lt;/div&gt;World Gen Visable" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="20" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-2" value="&lt;div&gt;Botanina&lt;/div&gt;&lt;div&gt;World Gen Visable&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="20" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-3" value="&lt;div&gt;Astral Sorcery&lt;/div&gt;World Gen Visable" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="20" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-4" value="&lt;div&gt;ManaSteel&lt;/div&gt;&amp;amp; ManaWeave&lt;br&gt;&lt;div&gt;(ManaSteel is now made from Steel)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-2" target="CSdkW1yLN_EMIZcc1iPK-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="150" as="sourcePoint"/>
+            <mxPoint x="1050" y="100" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-6" value="&lt;div&gt;Thaumium, Salis Mudus&lt;br&gt;&lt;/div&gt;&lt;div&gt;Enchanted Fabric&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Made From Mana Variant)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-8" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-1" target="CSdkW1yLN_EMIZcc1iPK-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="170" as="sourcePoint"/>
+            <mxPoint x="860" y="120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-9" value="" style="endArrow=classic;html=1;exitX=0.131;exitY=1.045;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-3" target="CSdkW1yLN_EMIZcc1iPK-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="190" as="sourcePoint"/>
+            <mxPoint x="1170" y="140" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-10" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-4" target="CSdkW1yLN_EMIZcc1iPK-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="350" as="sourcePoint"/>
+            <mxPoint x="1030" y="300" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-11" value="&lt;div&gt;TerraSteel&lt;/div&gt;&lt;div&gt;(uses Thaumium insted of manasteel)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="430" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-12" value="&lt;div&gt;Lens&lt;/div&gt;&lt;div&gt;(Made from Quicksilver Mirrors)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-13" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-6" target="CSdkW1yLN_EMIZcc1iPK-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="390" as="sourcePoint"/>
+            <mxPoint x="960" y="340" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-14" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-6" target="CSdkW1yLN_EMIZcc1iPK-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="420" as="sourcePoint"/>
+            <mxPoint x="950" y="370" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-15" value="T4 Alter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="520" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-16" value="&lt;div&gt;Infusion&lt;/div&gt;&lt;div&gt;Alter&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="530" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-6" target="CSdkW1yLN_EMIZcc1iPK-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="500" as="sourcePoint"/>
+            <mxPoint x="870" y="450" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.587;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-12" target="CSdkW1yLN_EMIZcc1iPK-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="470" as="sourcePoint"/>
+            <mxPoint x="1210" y="420" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-19" value="Evlen Portal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="660" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-20" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-16" target="CSdkW1yLN_EMIZcc1iPK-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="640" as="sourcePoint"/>
+            <mxPoint x="980" y="590" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-21" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-15" target="CSdkW1yLN_EMIZcc1iPK-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="700" as="sourcePoint"/>
+            <mxPoint x="1160" y="650" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-22" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-11" target="CSdkW1yLN_EMIZcc1iPK-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="590" as="sourcePoint"/>
+            <mxPoint x="1040" y="540" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-23" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="240" as="sourcePoint"/>
+            <mxPoint x="1193" y="317" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-26" value="&lt;div&gt;Moving Through&lt;/div&gt;&lt;div&gt;the Magic tree&lt;/div&gt;&lt;div&gt;unlocks the Magic Machine in GT:CE&lt;/div&gt;&lt;div&gt;Relative tiers eg Mana steel is used in LV magic Machine, Thaumium in MV magic machines&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="150" width="170" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-27" value="&lt;div&gt;Crimsion RIghts&lt;/div&gt;&lt;div&gt;(Craftable Only)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="770" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-28" value="T5 Alter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="770" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-29" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-19" target="CSdkW1yLN_EMIZcc1iPK-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="820" as="sourcePoint"/>
+            <mxPoint x="1000" y="770" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-30" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-19" target="CSdkW1yLN_EMIZcc1iPK-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="770" as="sourcePoint"/>
+            <mxPoint x="1130" y="720" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-31" value="Gaia Guarden" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="890" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-32" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-27" target="CSdkW1yLN_EMIZcc1iPK-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="870" as="sourcePoint"/>
+            <mxPoint x="990" y="820" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-33" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-28" target="CSdkW1yLN_EMIZcc1iPK-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="910" as="sourcePoint"/>
+            <mxPoint x="1140" y="860" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-34" value="Intergated Dynamics &amp;amp; REST" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="60" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-35" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PJJnslw4Wn_ZsGAr-Ul9-1" target="CSdkW1yLN_EMIZcc1iPK-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="170" as="sourcePoint"/>
+            <mxPoint x="340" y="120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-36" value="Intergated Tunnels" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="370" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-37" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-9" target="CSdkW1yLN_EMIZcc1iPK-36" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="400" as="sourcePoint"/>
+            <mxPoint x="350" y="350" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-38" value="Intergated Terminals &amp;amp; Crafting" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="530" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-39" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-51" target="CSdkW1yLN_EMIZcc1iPK-38" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="660" as="sourcePoint"/>
+            <mxPoint x="360" y="610" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-40" value="Tinkers&#39;s Smelter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-41" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="200" as="sourcePoint"/>
+            <mxPoint x="510" y="150" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-42" value="&lt;div&gt;Tinker&#39;s&lt;/div&gt;&lt;div&gt;Adv. Tools and Part Replacement&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="260" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-43" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="te4BPd4gL-SLr1GhwpY1-9" target="CSdkW1yLN_EMIZcc1iPK-42" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="310" as="sourcePoint"/>
+            <mxPoint x="520" y="260" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-44" value="&lt;div&gt;Mystcal Agricultre&lt;/div&gt;Master Crystal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="660" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CSdkW1yLN_EMIZcc1iPK-45" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CSdkW1yLN_EMIZcc1iPK-19" target="CSdkW1yLN_EMIZcc1iPK-44" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="720" as="sourcePoint"/>
+            <mxPoint x="1200" y="670" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l5zvOdELSml1Q8aAOdzl-1" value="&lt;div&gt;Mystical Agricultre&lt;/div&gt;&lt;div&gt;Requires the GT:CE Crop Variant to make (if applicable)eg.Tine is need for the Tin crop and Ferru for the Iron Crop&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="300" width="170" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="l5zvOdELSml1Q8aAOdzl-2" value="Tinkers&#39; Laser Gun" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="680" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="l5zvOdELSml1Q8aAOdzl-3" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="te4BPd4gL-SLr1GhwpY1-21" target="l5zvOdELSml1Q8aAOdzl-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="730" as="sourcePoint"/>
+            <mxPoint x="330" y="680" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
